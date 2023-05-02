@@ -14,10 +14,8 @@
 | **Ethernet**  | `Intel Ethernet Connection I219-LM`   |
 | **OS**         | `macOS Big Sur 11.4`          |
    
-# Updating macOS to a newer version?
- For me, the Big Sur version is good enough for me, but my configuration still runs on everything from 10.14 (Mojave) to 13.0 (Ventura). 
-    
- If you need to update your macOS to a **newer version**, don't forget to **also update your OpenCore bootloader (currently version 0.7.0) and important Kexts (such as Lilu and WhateverGreen)**
+# Updating macOS to a newer version? 
+We now have Ventura, check for new branch!
    
 # HiDPI
  Use `https://github.com/xzhih/one-key-hidpi` to enable HiDPI, then set the resolution to `1424 x 802`
